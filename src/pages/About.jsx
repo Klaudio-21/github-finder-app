@@ -8,7 +8,7 @@ function About() {
        
         
         
-        <strong>
+       <strong>
                     Klaudio Toska
         </strong>
         .

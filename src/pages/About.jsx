@@ -11,7 +11,7 @@ function About() {
        <strong>
                     Klaudio Toska
         </strong>
-        .
+        
       </p>
       <p className='text-lg text-gray-400'>
         Version <span className='text-white'>1.0.0</span>
